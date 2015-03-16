@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-  display: block;
+  display: inline;
   font-size: 1rem;
   padding: 0;
   
@@ -45,41 +45,54 @@ img {
 
 .two {
   font-size: 2rem;
-  margin-right: 20%;
 }
 
 .three {
+  margin-left: 15%;
+  font-size: 2rem;
+}
+
+.four {
+  margin-left: 15%;
+  font-size: 2rem;
+}
+
+.five {
+  font-size: 5rem;
+}
+
+.six {
   font-size: 2rem;
   margin-right: 20%;
 }
 
-.four {
+.seven {
   font-size: 2rem;
-  
+  margin-right: 20%;
 }
 
-.a {
-  font-size: 4rem;
-  margin-top: 3%;
+.eight {
+  font-size: 2rem;
+  margin-right: -8%;
 }
 
+.nine {
+  font-size: 2rem;
+  margin-right: 10%;
+}
 
-
-
+.ten {
+  font-size: 2rem;
+}
 
 .b {
-  display: inline;
-
-}
-
-.c {
-  display: inline;
-
+  margin-top: 8%;
 }
 
 
-
-
+.d {
+  margin-top: 8%;
+}
 
 
 .tornado{
