@@ -6,8 +6,27 @@ div {
   display: inline;
 }
 
-p {
+h1 {
   display: inline;
+  font-size: 2rem;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+
+h2 {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: 500;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  display: block;
+  font-size: 1rem;
+  padding: 0;
+  
 }
 
 span {
@@ -16,35 +35,188 @@ span {
 }
 
 img {
-  margin-left: 80px;
+  margin-left: 100px;
+  margin-top: 75px;
 }
 
 .one {
-  margin-left: -30px;
+  font-size: 2rem;
+}
+
+.two {
+  font-size: 2rem;
+  margin-right: 20%;
 }
 
 .three {
-  margin-left: 100px;
+  font-size: 2rem;
+  margin-right: 20%;
 }
 
-.five {
+.four {
+  font-size: 2rem;
   
 }
 
-.six {
-  padding: 35px;
+.a {
+  font-size: 4rem;
+  margin-top: 3%;
 }
 
-.seven {
-  padding: 35px;
+
+
+
+
+.b {
+  display: inline;
+
 }
 
-.nine {
-  padding: 80px;
+.c {
+  display: inline;
+
 }
 
-.ten {
-  padding: 80px;
-}
+
+
+
+
+
+.tornado{
+  background: red;
+  color: #000;}
+.tropicalstorm{
+  background: yellow;
+  color: #000;}
+.hurricane{
+  background: red;
+  color: #000;}
+.severthunderstorms{
+  background: #727272;
+  color: #fff;}
+.thunderstorms{
+  background: #727272;
+  color: #fff;}
+.mixedrainandsnow{
+  background: white;
+  color: #000;}
+.mixedrainandsleet{
+  background: white;
+  color: #000;}
+.mixedsnowandsleet{
+  background: white;
+  color: #000;}
+.freezingdrizzle{
+  background: rgba(50, 84, 83, 0.75);
+  color: #fff;}
+.drizzle{
+  background: rgba(67, 91, 94, 0.75);
+  color: #fff;}
+.freezingrain{
+  background: rgba(50, 84, 83, 0.75);
+  color: #fff;}
+.showers{
+  background: rgba(70, 92, 140, 0.55);
+  color: #fff;}
+.snowflurries{
+  background: white;
+  color: #000;}
+.lightsnowshowers{
+  background: white;
+  color: #000;}
+.blowingsnow{
+  background: white;
+  color: #000;}
+.snow{
+  background: white;
+  color: #000;}
+.hail{
+  background: white;
+  color: #000;}
+.sleet{
+  background: white;
+  color: #000;}
+.dust{
+  background: rgba(83, 39, 2, 0.35);
+  color: #fff;}
+.foggy{
+  background: rgba(0, 0, 0, 0.2);
+  color: #fff;}
+.haze{
+  background: rgba(83, 39, 2, 0.35);
+  color: #fff;}
+.smoky{
+  background: rgba(83, 39, 2, 0.35);
+  color: #000;}
+.blustery{
+  background: rgba(111, 162, 214, 0.25);
+  color: #000;}
+.windy{
+  background: rgba(111, 162, 214, 0.5);
+  color: #000;}
+.cold{
+  background: rgba(0, 6, 193, 0.45);
+  color: #000;}
+.cloudy{
+  background: rgb(183, 183, 183);
+  color: #fff;}
+.mostlycloudynight{
+  background: rgb(102, 98, 98);
+  color: #fff;}
+.mostlycloudyday{
+  background: rgb(76, 109, 124);
+  color: #fff;}
+.partlycloudynight{
+  background: rgba(102, 98, 98, 0.5);
+  color: #fff;}
+.partlycloudyday{
+  background: rgba(76, 109, 124, 0.5);
+  color: #fff;}
+.clearnight{
+  background: #000;
+  color: #fff;}
+.sunny{
+  background: #ffb600;
+  color: #fff;}
+.fairnight{
+  background: #000;
+  color: #fff;}
+.fairday{
+  background: #00bfff;
+  color: #fff;}
+.mixedrainandhail{
+  background: #727272;
+  color: #fff;}
+.hot{
+  background: rgba(255, 100, 22, 0.85);
+  color: #fff;}
+.isolatedthunderstorms{
+  background: #727272;
+  color: #fff;}
+.scatteredthunderstorms{
+  background: #727272;
+  color: #fff;}
+.scatteredshowers{
+  background: rgba(62, 90, 119, 0.95);
+  color: #000;}
+.heavysnow{
+  background: white;
+  color: #000;}
+.scatteredsnowshowers{
+  background: white;
+  color: #000;}
+.partycloudy{
+  background: rgba(76, 109, 124, 0.5);
+  color: #fff;}
+.thundershowers{
+  background: #727272;
+  color: #fff;}
+.snowshowers{
+  background: white;
+  color: #000;}
+.isolatedthundershowers{
+  background: #727272;
+  color: #fff;}
+
 
 
