@@ -1,107 +1,50 @@
-/************************ SKY TRACKER ************************/
-
-.bodynight {
-  position: relative;
-  background-color: #011111;
-  background-image: radial-gradient(#0d292a 10%, #011111 80%);
-  background-size: 100%;
-  background-repeat: no-repeat;
+li {
+  list-style: none;
 }
 
-.bodyday {
-  background-color: #bbe7ff;
-  background-image: radial-gradient(#bbe7ff 80%);
-  position: relative;
+div {
+  display: inline;
+}
+
+p {
+  display: inline;
+}
+
+span {
+  display: block;
+  text-align: center;
+}
+
+img {
+  margin-left: 80px;
+}
+
+.one {
+  margin-left: -30px;
+}
+
+.three {
+  margin-left: 100px;
+}
+
+.five {
   
 }
 
-/**************** MOON ****************/
-
-.sun {
-  position:absolute;
-  top: 60px;
-  left: 80%;
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #E6FF7A ;
-  box-shadow: inset -15px -15px 0 #D9FE38;
+.six {
+  padding: 35px;
 }
 
-.moon {
-  position: absolute;
-  top: 60px;
-  left: 80%;
-  width: 150px;
-  height: 150px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #fffbbb;
-  box-shadow: inset -15px -15px 0 #f2e594;
+.seven {
+  padding: 35px;
 }
 
-.moondot1 {
-  position: absolute;
-  top: 60px;
-  left: 75%;
-  width: 10px;
-  height: 10px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #f3e79e;
-  box-shadow: inset -15px -15px 0 #f2e594;
+.nine {
+  padding: 80px;
 }
 
-.moondot2 {
-  position: absolute;
-  top: 36px;
-  left: 9%;
-  width: 9px;
-  height: 9px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #f3e79e;
-  box-shadow: inset -15px -15px 0 #f2e594;
+.ten {
+  padding: 80px;
 }
 
-.moondot3 {
-  position:absolute;
-  top: 92px;
-  left: 35%;
-  width: 20px;
-  height: 20px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #f3e79e;
-  box-shadow: inset -15px -15px 0 #f2e594;
-}
 
-.moondot4 {
-  position:absolute;
-  top: 105px;
-  left: 70%;
-  width: 7px;
-  height: 7px;
-  overflow: hidden;
-  border-radius: 50%;
-  background-color: #f3e79e;
-  box-shadow: inset -15px -15px 0 #f2e594;
-}
-
-/**************** END MOON ****************/
-
-
-/**************** CLOCK ****************/
-#time {
-  text-align: center;
-  height: 0px;
-  width: 100%;
-  margin: auto;
-  font-size: 2rem;
-  color: white;
-  font-family: 'sans serif';
-  text-shadow: 2px 2px 2px rgba(0,0,0,3);
-}
-
-/**************** END CLOCK ****************/
